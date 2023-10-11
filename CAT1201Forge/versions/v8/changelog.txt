@@ -1,0 +1,9 @@
+[Versioning Update]
+
+Mods:
++ Modpack Update Checker (by Jab125)
+
+Configs:
++ Added more vein minable ores to Viner
+
+AS ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
