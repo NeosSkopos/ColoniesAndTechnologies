@@ -3,11 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "7.0.1",
+      "id": "v7.0.1",
       "releasedAt": 1689470265689
     },
     {
-      "id": "8",
+      "id": "v8",
       "releasedAt": 1689470265690
     }
   ]
