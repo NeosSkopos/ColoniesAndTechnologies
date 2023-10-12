@@ -1,0 +1,7 @@
+Mods:
++ Added Vein Miner (by TheIllusiveC4)
++ Added Butcher's Delight Foods (by OnuaDan)
++ Added CoffeeG's Wall Climbing (by ScadeBlock)
+- Removed Viner (by altaiiiir) (Replaced)
+
+Remember to backup your worlds before updating them.
