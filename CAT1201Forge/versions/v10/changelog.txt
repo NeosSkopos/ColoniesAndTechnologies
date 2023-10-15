@@ -4,5 +4,6 @@ Mods:
 + Added Iam Music Player (by morimori0317)
 + Added Otyacraft Engine (by morimori0317)
 + Added Complementary Shaders - Unbound (by EminGT) (and set to default)
++ Updated all mods to latest, except Cloth Config and Rotted
 
 Remember to backup your worlds before updating them.
