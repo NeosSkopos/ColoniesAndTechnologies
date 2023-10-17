@@ -1,1 +1,6 @@
+Mods:
++ Added Lootr (by noobanidus)
++ Added Saturn (by AbdElAziz)
+- Removed Panda's Extra Details (by PandaDap2006). (Was preventing double doors working properly)
 
+Remember to backup your worlds before updating them.
