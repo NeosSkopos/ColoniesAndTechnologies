@@ -1,6 +1,7 @@
 Mods:
 + Added Lootr (by noobanidus)
 + Added Saturn (by AbdElAziz)
++ Updated all mods to latest, except Cloth Config and Rotted
 - Removed Panda's Extra Details (by PandaDap2006). (Was preventing double doors working properly)
 
 Remember to backup your worlds before updating them.
