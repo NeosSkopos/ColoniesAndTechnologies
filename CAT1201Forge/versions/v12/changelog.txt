@@ -1,0 +1,15 @@
+Mods:
++ Added Completionist Index (by Fuzs)
++ Added Better Lanterns (Resource Pack by Nico4play)
++ Added Better Tables (Resource Pack by ZeusBlockTuber)
++ Added 3D Ladders (Resource Pack by Nico4play)
++ Added Passive Shield (by Serilum)
++ Added Hey Berry! SHUT UP (by LobsterJonn)
++ Added K-Turrets (by Krosenut)
++ Added Satako library (by Krosenut)
++ Updated all mods to latest, except Cloth Config and Rotted
+
+Configs:
++ Fixed compatability between Lootr and Mine Treasure, by blacklisting Mine Treasure in Lootr
+
+Remember to backup your worlds before updating them.
