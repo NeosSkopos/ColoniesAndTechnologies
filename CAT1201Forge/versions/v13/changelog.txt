@@ -1,1 +1,13 @@
+Mods:
++ Added Carry-On (by Tschipp)
++ Added Quality Sounds (by RKeblawi)
+- Removed (Replaced) More mob variants (by nyuppo)
+- Removed (Replaced) Better Block Sounds (by Ordana)
++ Updated all mods to latest, except Cloth Config, Rotted and Inventory Profiles Next
 
+Resource Packs:
++ Added Mickey Joe's "Barely Default" (Resource Pack by mushirmickeyjoe)
++ Added Barely Default x Fresh Animations (aka "this pack on top") (Resource Pack by mushirmickeyjoe)
+- Removed (Replaced) More Mob Variants x Fresh Animations (Resource Pack by nyuppo)
+
+Remember to backup your worlds before updating them.
