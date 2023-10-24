@@ -1,1 +1,21 @@
+Mods:
++ Added Better Beds Reforged (by shizotoaster)
++ Added Connected Glass (by SuperMartijn642)
++ Added Forge CIT (by tfarecnim)
++ Added Seamless (by LarsMans)
++ Re-added More mob variants (by nyuppo)
++ Updated all mods to latest, except Cloth Config, Rotted and Carry On
 
+Resource Packs:
++ Added Enhanced Audio (Sound Pack) (Resource Pack by Frawzy)
++ Added Enhanced Audio: Ambience (Sound Pack) (Resource Pack by Frawzy)
++ Added Nautilus3D (Resource Packby FabianMPunkt)
++ Added Realistic Combat Soundpack (Resource Pack by Lossvoise)
+- Re-added More Mob Variants x Fresh Animations (Resource Pack by nyuppo)
+- Removed (Replaced) Mickey Joe's "Barely Default" (Resource Pack by mushirmickeyjoe)
+- Removed (Replaced) Barely Default x Fresh Animations (aka "this pack on top") (Resource Pack by mushirmickeyjoe)
+- Removed (Replaced) Better Tables (Resource Pack by ZeusBlockTuber)
+- Removed (Replaced) Better Lanterns (Resource Pack by Nico4play)
+- Removed (Replaced) 3D Ladders (Resource Pack by Nico4play)
+
+Remember to backup your worlds before updating them.
