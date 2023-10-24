@@ -1,1 +1,5 @@
+Mods:
+- Removed CoffeeG's Wall Climbing (by ScadeBlock)
++ Updated all mods to latest, except Cloth Config, Rotted and Carry On
 
+Remember to backup your worlds before updating them.
