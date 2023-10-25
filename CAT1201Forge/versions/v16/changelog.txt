@@ -1,1 +1,8 @@
+Mods:
++ Updated all mods to latest, except Cloth Config, Rotted and Carry On
+- Removed (Replaced) Dynamic Music Updated (by celeri)
 
+Resource Packs:
++ Added StargateSurpreme (Resource Pack by Swordsman69x)
+
+Remember to backup your worlds before updating them.
