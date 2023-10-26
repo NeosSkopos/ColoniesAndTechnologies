@@ -11,3 +11,5 @@ Config:
 
 Known bug fixes:
 - Latest update to Metal Bundles should now allow the bundles to be usable in multiplayer.
+
+Remember to backup your worlds before updating them.
