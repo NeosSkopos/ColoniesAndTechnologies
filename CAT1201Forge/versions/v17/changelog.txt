@@ -1,0 +1,13 @@
+Mods:
++ Added Naturalist (by crispytwig)
++ Added What Are You Voting For? 2023 (by AlexandersFunAndGames)
++ Added Sunrise & Sunset Audio (by MrMorgan0)
++ Added Exline's Furniture (by exline)
++ Added Plasmo Voice (by apehum)
++ Updated all mods to latest, except Cloth Config, Rotted, Carry On, Puzzles Lib and Distinguished Potions
+
+Config:
+- Removed bushy leaves from Nautilus3D (Necessary change for people without shaders)
+
+Known bug fixes:
+- Latest update to Metal Bundles should now allow the bundles to be usable in multiplayer.
