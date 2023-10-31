@@ -1,0 +1,6 @@
+Mods:
++ Added Chalk (by mortuusars)
+- Removed Metal Bundles (by Fuzs) - Pending fix of crash when invited player renders the item. Even crashed when seen in JEI.
++ Updated all mods to latest, except Cloth Config, Rotted, Carry On and Majrusz Library
+
+Remember to backup your worlds before updating them.
