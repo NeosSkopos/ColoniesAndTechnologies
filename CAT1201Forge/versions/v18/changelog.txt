@@ -1,0 +1,7 @@
+Mods:
++ Added Armor Statues (by Fuzs)
++ Added MVS - Moog's Voyager Structures (by FinnSetchell)
++ Added Remove Terralith Intro Message (by Stardust)
++ Updated all mods to latest, except Cloth Config, Rotted, Carry On and Majrusz Library
+
+Remember to backup your worlds before updating them.
