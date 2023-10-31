@@ -1,0 +1,5 @@
+Mods:
++ Added Bananarangs (by BrownBear85)
++ Updated all mods to latest, except Cloth Config, Rotted, Carry On and Majrusz Library
+
+Remember to backup your worlds before updating them.
