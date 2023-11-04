@@ -1,0 +1,8 @@
+Mods:
++ Added CTOV - Create: Structures (by ChoiceTheorem)
++ Added Wavey Capes (by tr7zw)
++ Added Better Falling (by Blaze784)
++ Added Villager Names (by Serilum)
++ Updated all mods to latest, except Cloth Config, Rotted, Carry On and Majrusz Library
+
+Remember to backup your worlds before updating them.
