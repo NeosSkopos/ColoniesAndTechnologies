@@ -1,0 +1,7 @@
+Mods:
++ Added Eccentric Tome (by EccentricVamp)
++ Added Ping Wheel (by Luken)
++ Added Storage Labels (by MehVahdJukaar)
++ Updated all mods to latest, except Cloth Config, Rotted, Carry On and Majrusz Library
+
+Remember to backup your worlds before updating them.
