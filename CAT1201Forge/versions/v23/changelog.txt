@@ -1,0 +1,7 @@
+Version 23:
+Mods:
++ Added ElevatorMod (by VsnGamer)
++ Added Simple Spears (by ICanDoodle)
++ Updated all mods to latest, except Cloth Config, Carry On and Majrusz Library
+
+Remember to backup your worlds before updating them.
