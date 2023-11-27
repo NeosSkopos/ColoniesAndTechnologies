@@ -1,0 +1,5 @@
+Mods:
+- Removed Better Falling (by Blaze784) due to graphical glitches and incompatability with some of the movement mods.
++ Updated all mods to latest, except Cloth Config and Majrusz Library
+
+Remember to backup your worlds before updating them.
