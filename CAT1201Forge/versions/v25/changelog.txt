@@ -1,0 +1,9 @@
+Mods:
++ Added Chunk Loaders (by SuperMartijn642)
++ Added What Are They Up To (Watut) (by Corosus)
++ Added CoroUtil (by Corosus)
++ Added Cosmetic Armor Reworked (by LainMI)
++ Updated all mods to latest, except Cloth Config
++ Updated TownTalk (by Raycoms). Added this in v22. Couldn't update v22 description now, so mentioning it here.
+
+Remember to backup your worlds before updating them.
