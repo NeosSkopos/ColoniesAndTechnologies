@@ -1,1 +1,13 @@
+Version 26:
+Mods:
++ Added Extra Sounds Forge (by Arborsm)
++ Added MasterCutter (by Nico4play)
++ Updated all mods to latest, except Cloth Config
+Resource Packs:
++ Added Presence Footsteps: Remastered Sounds Pack (by Lanixius)
++ Added Dynamic Surroundings: Remastered Sounds Pack (by Lanixius)
+- Removed Enhanced Audio (by Frawzy)
+- Removed Enhanced Audio: Ambience (by Frawzy)
+Rebinded "c" to "/" for chunk loaders
 
+Remember to backup your worlds before updating them.
