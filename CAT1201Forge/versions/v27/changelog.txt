@@ -1,0 +1,9 @@
+Mods:
++ Added Heracles (by Terrarium)
++ Added Loot Bundles (by LobsterJonn)
++ Added Starter Kit (by Serilum)
+
+Quests:
++ Added some starter quests! (Planning to expand on quests going forward.)
+
+Remember to backup your worlds before updating them.
