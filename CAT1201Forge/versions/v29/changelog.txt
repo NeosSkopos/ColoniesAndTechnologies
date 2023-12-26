@@ -1,0 +1,18 @@
+Configs:
+- Removed the Shield cooldown from Shield Expansion
+
+Resource Packs:
++ Activated the Shield Expansion resource pack
+
+Mods:
++ Added Silent Lib (by SilentChaos512)
++ Added Ender Tendril (by SilentChaos512)
++ Added Torch Bandolier (by SilentChaos512)
++ Added Silent Gear (by SilentChaos512)
++ Added Berries and More (by SilentChaos512)
++ Updated all mods to their latest versions
+
+Quests:
++ Added some more butchery quests. (Quests still being added.)
+
+Remember to backup your worlds before updating them.
