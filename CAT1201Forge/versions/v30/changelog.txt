@@ -1,0 +1,9 @@
+Mods:
++ Added Food Effect Tooltips (Forge) (by Suel_ki)
++ Added Improved Sign Editing (by Serilum)
++ Updated all mods to their latest versions, except Oculus (1.6.13a seems to have an issue).
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+Remember to backup your worlds before updating them.
