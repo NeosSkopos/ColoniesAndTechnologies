@@ -1,0 +1,20 @@
+Mods:
++ Added Yeetus Experimentus (by Sunekaer)
++ Added Advanced Backups (by MommyHeather)
++ Added GUI Followers (by Serilum)
++ Added Better Archeology (by Pandarix)
++ Updated all mods to their latest versions, except Oculus (1.6.13a seems to have an issue).
+  
+Resource Packs:
++ Updated Nautilus3D (by FabianMPunkt)
+
+Shader Packs:
++ Updated both (BSL and Complementary Unbound) shader packs to their latest versions.
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+Keybindings:
++ Sort Inventory is now bound to "r" and will sort the inventory that your mouse hovers over when you press "r".
+
+Remember to backup your worlds before updating them.
