@@ -1,0 +1,13 @@
+Mods:
++ Added Euphoria Patches (by SpacEagle17)
++ Added Village Nullifier (by TheButterbrotMan)
++ Added Village Nullifier: Terralith (by TheButterbrotMan)
++ Added Effect Tooltips (by Darkhax)
++ Added Cake Chomps (by TheIllusiveC4)
++ Updated all mods to their latest versions, except Oculus (1.6.13a seems to have an issue).
+  
+Starting Gear:
++ Added back the info book with starting worlds
++ Leaves now see-through by default
+
+Remember to backup your worlds before updating them.
