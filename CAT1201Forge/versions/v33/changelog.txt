@@ -1,0 +1,7 @@
+Config:
+- Removed Adventurer zombie from Rotted. (Was causing a random crash sometimes.)
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+Remember to backup your worlds before updating them.
