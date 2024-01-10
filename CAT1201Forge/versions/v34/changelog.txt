@@ -1,0 +1,9 @@
+Mods:
++ Added WorldGen (by caeruleusDraconis)
++ Added A.V.A - Alliance of Valiant Arms Guns (Light) (by PellucidDice)
+- Removed A.V.A - Alliance of Valiant Arms Guns (replaced)
+
+Config:
+- Removed Flusk zombie from Rotted. (Was also causing tick crashes.)
+
+Remember to backup your worlds before updating them.
