@@ -2,6 +2,7 @@ Mods:
 + Added New Death Messages (by Neon_Cranberries)
 + Added Smarter Farmers (farmers replant) (by MehVahdJukaar)
 + Added Friendly Fire (by Darkhax)
++ Added Villager Transportation (by Jaffthry)
 + Added Chunky (by pop4959)
 - Removed WorldGen (replaced)
 + Updated all mods to their latest versions, except Oculus (1.6.13a seems to have an issue) and Ad Astra (latest version still has door rendering issues).
