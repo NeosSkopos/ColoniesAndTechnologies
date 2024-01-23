@@ -1,0 +1,11 @@
+Mods:
++ Added Underground Bunkers (by aureljz)
++ Updated all mods to their latest versions, except Oculus (1.6.13a seems to have an issue), Ad Astra (still in alpha), MaFgLib (crashes pack on latest version) and Modpack Update Checker (gives resourcepackinfo error)
+
+Resource Packs:
++ Updated Sparkles (previously called Incendium optional resource pack)
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+Remember to backup your worlds.
