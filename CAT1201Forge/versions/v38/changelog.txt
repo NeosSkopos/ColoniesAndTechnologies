@@ -1,0 +1,16 @@
+Mods:
++ Added When Dungeons Arise: Seven Seas (by aureljz)
++ Added CraftTweaker (by jaredlll08)
++ Updated all mods to their latest versions, except Oculus (1.6.13a seems to have an issue), Ad Astra (still in alpha), MaFgLib (crashes pack on latest version) and Modpack Update Checker (gives resourcepackinfo error)
+
+Quests:
++ Added more quests. (Quests still being added.)
+Configuration:
++ Added recipe for label (that you can put on chests) to only need 4 paper in a square
++ Added 35% movespeed bonus to all Macaw's Path blocks.
+
+Resource Packs:
++ Added Icons (by WeNAN)
++ Added Icons Advertisement Removal (by vexcenot)
+
+Remember to backup your world.
