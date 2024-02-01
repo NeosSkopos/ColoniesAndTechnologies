@@ -1,0 +1,18 @@
+Warning: World generation (new/ungenerated chunks) is greatly changed by the adding of the Tectonic mod.
+
+Mods:
++ Added EveryXDance (by Viola-Siemens). Try breeding animals and see their response now. :)
++ Added EMI (by Emi). Now with quick crafting on the left side.
++ Added EMI Trades (by Flamarine)
++ Added Tectonic (by Apollo). Gives terrain generation changes.
++ Added WI Zoom (by Alexander01998)
+- Removed Bananarangs (bad hit detection)
++ Updated all mods to their latest versions, except some visual related mods (Oculus, Embeddium, TexTrue's Embeddium Options, [ETF] Entity Texture Features, Embeddium (Rubidium) Extra), Ad Astra (still in beta) and Modpack Update Checker (gives resourcepackinfo error)
+
+Resource Packs:
++ Updated Limited Life Armor
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+Remember to make a backup of your world.
