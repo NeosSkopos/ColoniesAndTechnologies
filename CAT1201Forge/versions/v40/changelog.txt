@@ -1,0 +1,19 @@
+Mods:
++ Added Freecam (Modrinth Edition) (by hashalite). Press F4 to toggle freecam.
++ Added Common Network (by mysticdrew) - a new requirement for the Useful Slime mod.
++ Added Lithostitched (by Apollo) - a new requirement for CTOV mod
+- Removed Lexicon (It broke book tags)
++ Updated all mods to their latest versions, except Ad Astra (still in beta) and Modpack Update Checker (gives resourcepackinfo error)
+
+Quests:
++ Added more quests. (Quests still being added.)
+  
+Configuration:
++ Fixed the leaves again to be see-through by default.
++ Disable View Bobbing by default (avoids the clip-through glitch when wearing Aether gloves)
+- Removed duplicate stonecutter recipes where 2mal3 overlapped with MasterCutter
+- Removed some invalid items from the loot bag reward possibilities
+- Reduced Explorer's Compass max radius to 1000 blocks.
+- Removed Inventory Profile Next buttons from the Auto Mechanic Table
+
+Remember to backup your world.
