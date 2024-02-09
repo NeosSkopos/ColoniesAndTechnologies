@@ -1,0 +1,19 @@
+Mods:
++ Added No Resource Pack Warnings forge (by 1Foxy2)
++ Added World Play Time (by khajiitos)
++ Added Advanced Hook Launchers & ForgeEndertech (by EnderLanky)
++ Added ParCool (by alRex_U)
++ Added MPUC Lavender-md (a dependancy fix for Modpack Update Checker)
++ Added Splashy (by Darkhax)
+- Removed Crawl on Demand (Replaced)
+- Removed CoffeeG's Double Jump (Replaced)
+- Removed Grappling Hook Mod (Replaced - wasn't working on latest Forge versions)
+
+Configuration:
++ Switched Modpack Update Checker to use Modrinth's version history
+- Removed IPN buttons from the Armor Statues interface.
+
+Quests:
++ Updated and Added more quests. (Quests still being added.)
+
+Remember to backup your world
