@@ -1,0 +1,8 @@
+Mods:
+- Removed Armor Stand Shift Swap (due to clash with Armor Statues)
++ Updated Mods to their latest versions (those I could notice, at least - about 15 mods)
+
+Quests:
++ Added Ad Astra quests. (Quests still being added.)
+
+Remember to backup your world.
