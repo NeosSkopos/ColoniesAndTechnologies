@@ -3,6 +3,7 @@ WARNING!
 
 Config:
 + Blacklisted Landmines from carry-on, so that you can actually arm them now.
++ Parcool button now Mouse5 (removed combat roll mod)
 
 Mods:
 + Added Amendments (by MehVahdJukaar)
