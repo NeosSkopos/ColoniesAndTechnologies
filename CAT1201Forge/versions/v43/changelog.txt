@@ -1,0 +1,43 @@
+WARNING!
+- "Iron Chests: Restocked" is replaced by "Expanded Storage".  First move your items to other storage before upgrading your world.
+
+Config:
++ Blacklisted Landmines from carry-on, so that you can actually arm them now.
+
+Mods:
++ Added Amendments (by MehVahdJukaar)
++ Added Quark (by Vazkii)
++ Added Zeta (by Vazkii)
++ Added Integrated Dungeons and Structures (by craisinlord)
++ Added Integrated API (by craisinlord)
++ Added Integrated Stronghold (by craisinlord)
++ Added Hopo better underwater ruins (by Ohponopono)
++ Added Hopo Better Ruined Portals (by Ohponopono)
++ Added Paxi (by YUNGNICKYOUNG)
++ Added Shoulder Surfing Reloaded (by Exopandora)
++ Added Eccentric Tome (by EccentricVamp)
++ Added Expanded Storage (by Ellie-Semele)
++ Added Blossom Blade (by joshieman06)
++ Added Inventory Sorter (by cpw)
+- Removed YUNG's Better Strongholds (replaced)
+- Removed YUNG's Extras (reducing worldgen buildings a bit)
+- Removed Repurposed Structures - Forge (reducing worldgen buildings a bit)
+- Removed Iron Chests: Restocked (replaced)
+- Removed Combat Roll (feels excessive when already having Parcool to Roll around with)
+- Removed Inventory Profiles Next and LibIPN (replaced)
++ Updated all mods to their latest versions, except Ad Astra (still in beta)
+
+DataPacks (auto added to new worlds via Paxi):
++ Added ByeByeVanillaRuinedPortals (by Ohponopono)
++ Added ByeByeVanillaMineshaft (by Ohponopono)
++ Added ByeByeVanillaOceanRuin (by Ohponopono)
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+  Resource Packs:
++ Updated Fresh Animations
++ Updated Dynamic Surroundings
++ Changed Nautilus3D to 1.20.1 supported version
+
+Remember to backup your world
