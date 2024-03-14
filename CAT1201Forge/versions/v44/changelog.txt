@@ -1,0 +1,8 @@
+Mods:
++ Added Small Ships (by talhanation)
++ Updated all mods to their latest versions, except Ad Astra (still in beta)
+
+Quests:
++ Added more quests. (Quests still being added.)
+
+Remember to backup your world
