@@ -1,0 +1,41 @@
+Configs:
++ Increased default chunk render distance to 16
+
+Mods:
++ Added Loading Backgrounds (by Lupin)
++ Added Variants & Ventures (by faboslav)
++ Added Mob Variants (by badooga)
++ Added Mekanism Cardboard Tooltip (by Christofmeg)
++ Added Meowing (by Shevchyk)
++ Added Superior Shields (by EpicSquid)
++ Added Alternate Current (by Space Walker)
++ Added NetherPortalFix (by BlayTheNinth)
++ Added Alex's Mobs Extra Music (by TheExiIedFeIIow)
++ Added Boss Music Mod (by TheExiIedFeIIow)
++ Added Additional Placements (by FirEmerald)
+- Removed Missile Mayhem (mod no longer available)
+- Removed Shoulder Surfing Reloaded (wasn't using it as I thought I would)
+- Removed Rotted (Replaced with Mob Variants and Variants & Ventures, which should be less harsh on early game)
+- Removed qrafty's End Villages (Replaced by qraftified datapack)
++ Updated all mods to their latest versions, except Ad Astra (still in beta) and Extra Sounds Forge (crashes startup on latest version)
+
+Resource Packs:
++ Added 3D Item Icons (by mintynoura)
++ Added Alternate 3D Crossbow (by keyschain)
++ Added Alternate 3D Potions (by keyschain)
++ Added Alternate 3D Swords (by keyschain)
++ Added Alternate 3D Tools (by keyschain)
++ Added Fresh Moves (by TrasTick)
++ Added Sus Sand (by Rhythmic)
++ Added Extra Sus Sand (by noah1510)
+- Removed bushy leaves from Nautilus
+- Removed Presence Footsteps: Remastered Sounds Pack, due to having Quality Sounds mod
+- Removed Dynamic Surroundings: Remastered Sounds Pack (no longer on Modrinth and I have plenty other sound mods already)
+
+DataPacks (auto added to new worlds via Paxi):
++ Added qraftified (Terralith version) (by qrafty)
+
+Quests:
++ Added more quests. (Space Travel quests now completed.)
+
+Remember to backup your world
