@@ -1,0 +1,3 @@
+Mods:
+- Removed Sunrise & Sunset Audio (Was causing crashes sometimes.)
++ Updated all mods to their latest versions, except Ad Astra (still in beta) and Extra Sounds Forge (crashes startup on latest version)
