@@ -1,0 +1,50 @@
+Warning: (Remember to backup your world first)
+- This version removes all the AVA guns (mod replaced with Just Enough Guns)
+- This version updates Ad Astra with the following breaking changes:
++ Sliding doors will break and need to be placed again.
++ Launch pads will break and need to be placed again.
++ Cables and fluid pipes will break and need to be placed again.
++ All machines will lose their items, energy, and fluid contents.
+
+Config:
++ Reverted Vein Mining to allow all blocks to be vein minable
++ Better compatibility for Create Item Vaults with Tom's Simple Storage
+
+  Mods:
+- Removed TexTrue's Embeddium Options (mod archived)
+- Removed PhysicsLite (replaced)
+- Removed A.V.A - Alliance of Valiant Arms Guns (Light) (Replaced: felt too overpowered and many guns had graphical glitches)
+- Removed Embeddium (Rubidium) Extra (Replaced)
++ Added Physics Mod (by haubna)
++ Added Framework (by MrCrayfish)
++ Added Just Enough Guns (by AlanorMiga)
++ Added Abandoned urban (by KevinMods)
++ Added Sparse Structures Reforged (by Kasualix)
++ Added Create: Let The Adventure Begin (by NotJuno)
++ Added Mekanism: Ad Astra Ores (by liberty)
++ Added Disable Ad Astra Meteors (by Casmin7)
++ Added More Mobs (by Tschipcraft)
++ Added FPS Reducer (by bre2el)
++ Added Crushed Astra (by HCH5)
++ Added Blueprint (by teamabnormals)
++ Added Personality (by teamabnormals)
++ Added Movables - Chairs (by westmoon05)
++ Added Marbled's Arsenal (by MarbledNull)
++ Added WATERFrAMES (by SrRapero720)
++ Added WATERMeDIA (by SrRapero720)
++ Added Embeddium++ (by SrRapero720)
++ Added Mods Optimizer (by Kaworru)
++ Added Sawmill (by MehVahdJukaar)
++ Added Man of Many Planes (by Luke100000)
++ Updated all mods to their latest versions
+
+Resource Packs:
+- Removed Fresh Moves (Replaced - was glitching through The Aether gloves)
++ Added Better Animations (by cre8to-team)
+
+Data Packs:
++ Switched Hopo Better Ruined Portals from mod to datapack version
++ Switched Hopo better underwater ruins from mod to datapack version
+
+Quests:
++ Added more quests
