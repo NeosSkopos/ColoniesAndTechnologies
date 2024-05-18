@@ -1,0 +1,24 @@
+Config:
++ Fixed auto switching of tools for Silent Tools, Piercing Paxels and Crystal Tools.
++ Updated the starter kit's Eccentric Tome and the introduction book
+Mods:
++ Added Argonauts (by Terrarium)
++ Added Cadmus (by Terrarium)
++ Added Rechiseled: AE2 (by Christofmeg)
++ Added Jobs+ Remastered (by DAQEM)
++ Added Item Restrictions (by DAQEM)
++ Added Arc Lib (by DAQEM)
++ Added UI Lib (by DAQEM)
++ Added Day Counter (by AntrolGaming)
++ Added Daily Dad (Mrbysco)
++ Added Polymorphic Energistics (by 90)
++ Added Talk Balloons (by CerbonXD)
++ Added CERBON's API (by CerbonXD)
+- Removed Record Days Survived (Replaced - wasn't working correctly on server)
+- Removed Level Up (Replaced)
+- Removed Biome Particle Weather (crashed with rain on multiplayer)
++ Updated all mods to their latest versions, except Effortless Building (its latest version crashes servers)
+Resource Packs:
++ Added F.M.R.P (by SebSemos)
+Quests:
++ Added more quests
