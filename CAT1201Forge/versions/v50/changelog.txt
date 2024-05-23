@@ -1,0 +1,19 @@
+Config:
+- Adding Plenty Plates to the forbidden items of Carry On, so the plates can finally be configured.
+- Updated Mods Optimizer config to detect all client-side mods in this pack when setting up dedicated server
+- Blacklisted the MmmMmmMmmMmm target dummy from giving Crystal Tools experience.
+
+Mods:
++ Added Paladin's Furniture (by unlikepaladin)
++ Added PickUpTorches (by saltywater)
++ Added Camera Overhaul Reforged (by confusingfool93)
++ Added Not Interested! (by MoonFather)
+- Removed Movables - Chairs (no survival crafting & way too laggy)
++ Updated all mods to their latest versions, except Effortless Building (crashes server) and MaFgLib (crashes client)
+
+Resource Packs:
++ Added Crosshair CUBE (by KrinJL)
++ Updated Resource Packs to latest versions
+
+Quests:
++ Updated Quests
