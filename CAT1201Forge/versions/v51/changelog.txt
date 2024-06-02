@@ -1,0 +1,23 @@
+Config:
+- Changed CAWEZ'S Mantle to Stratus overworld dimension change level from 610 to 321
+- Updated starter book contents
+
+Mods:
++ Added Luki's Grand Capitals (by lukidono)
++ Added Medieval Buildings [End Edition] (by Lupin)
+- Removed ChoiceTheorem's overhauled village (Replaced)
+- Removed CTOV - Farmer Delight Compat (CTOV Replaced)
+- Removed CTOV - Create: Structures (CTOV Replaced)
+- Removed Village Nullifier (for Luki's Grand Capitals)
+- Removed Village Nullifier: Terralith (mod no longer available)
+- Removed Camera Overhaul Reforged (Caused too many of us nausea, lol)
++ Updated all mods to their latest versions, except Effortless Building (crashes dedicated server)
+
+Resource Packs:
++ Updated Better Animations
+
+Shaders:
++ Added Bliss Shaders and made it the default (Specular Reflections, Screen-Space Reflections & Sky/Fog in Reflections enabled)
+
+Quests:
++ Added more quests
