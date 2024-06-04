@@ -1,0 +1,8 @@
+Config:
+- Updated Mods Optimizer to cater for Essential's latest version
+- Blacklisted the Storage Controller from Carry-On.
+Mods:
+- Added MapFrontiers (by alejandrocoria)
++ Updated all mods to their latest versions, except Effortless Building (crashes dedicated server)
+Quests:
++ Added more quests
