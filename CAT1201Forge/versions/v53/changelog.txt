@@ -1,0 +1,24 @@
+Resource Packs:
++ Added Farmer's 3D (by Pder)
++ Added Drodi's Slimes (by Drodi)
++ Added 3D crops Revamped (by vexcenot)
++ Added RAY's 3D Ladders (by xR4YM0ND)
++ Added RAY's 3D Rails (by xR4YM0ND)
++ Added 3D Default (by GeForceLegend)
+- Updated Better Animations
+- Removed Nautilus3D (Replaced)
+
+Shaders:
+- Updated BSL
+- Updated Complimentary Unbound and set to default shader (supports Distant Horizons)
+
+Mods:
++ Added Distant Horizons (by jeseibel)
++ Added Bad Packets (by badasintended)
++ Added Mob Battle Music (by nonamecrackers2)
++ Added Ender Trigon (by nonamecrackers2)
++ Added Blazing Bamboo (by PaddedShaman)
+- Updated all mods to their latest versions, except Effortless Building (crashes dedicated server)
+
+Quests:
++ Added more quests
