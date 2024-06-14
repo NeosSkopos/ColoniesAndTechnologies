@@ -1,0 +1,10 @@
+Config:
++ Disabled earlyWindowControl in Forge config. (This fixes the "Process crashed with exit code 6" crash for Distant Horizons that some got during startup. The startup loading screen will show less details now though.)
+
+Mods:
++ Added Nyfs Spiders (by Nyfaria)
+- Removed Mob Battle Music (crashed clients on dedicated servers when rejoining)
+- Updated all mods to their latest versions, except Effortless Building (crashes dedicated server)
+
+Quests:
++ Added more quests
