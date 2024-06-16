@@ -1,0 +1,6 @@
+Mods:
+- Removed Mob Variants (Too many zombie horses)
+- Updated all mods to their latest versions, except Effortless Building (crashes dedicated server)
+
+Quests:
++ Added more quests
