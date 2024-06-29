@@ -17,6 +17,8 @@ Resource Packs:
 + Added Simply 3D (by Konijnebeer)
 + Added Simply 3D Extras (by Konijnebeer)
 + Added Minecanoes (by ShewPower)
++ Added 3D Bamboo Shoots (by Awoolanche)
++ Added Super Simple 3D Dripstone (by garden-gals)
 - Removed 3D Default
 
 Shaders:
