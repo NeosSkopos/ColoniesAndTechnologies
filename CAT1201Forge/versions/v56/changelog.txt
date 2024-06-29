@@ -1,0 +1,36 @@
+Config:
++ Removed another invalid item from loot bundle options
++ Spaced out buildings a bit more in world gen
+
+Resource Packs:
++ Updated Better Animations
++ Updated 3D Default
++ Updated 3D Item Icons
++ Updated Farmer's 3D
++ Updated Sparkles: Stardust Labs Resourcepack
++ Updated Ray's 3D Rails
++ Updated Ray's 3D Ladders
++ Updated Fresh Animations
++ Updated Nature Loading Screens
++ Added Remodeled Doors 3D (by Ecorn)
++ Added Mickey Joe's Flowers! (by mushirmickeyjoe)
++ Added Simply 3D (by Konijnebeer)
++ Added Simply 3D Extras (by Konijnebeer)
++ Added Minecanoes (by ShewPower)
+- Removed 3D Default
+
+Shaders:
++ Updated BSL
+
+Mods:
++ Added Draggable Lists (by mrmelon54)
++ Added Better Resource Pack Sorting (by mrmelon54)
++ Added Explosive Enhancement (Forge) (by Xylonity)
++ Added [ESF] Entity Sound Features (by Traben)
++ Added Decorative Blocks (by lilypuree)
++ Added iChunUtil (by iChun)
++ Added Jump Over Fences (by kreezxil)
+- Updated all mods to their latest versions, except Effortless Building (crashes dedicated server) & Common Networking (crashes startup with Useful Slime)
+
+Datapacks:
++ Added Idle Pause (by Plaonder) (will be auto added to worlds via Paxi)
