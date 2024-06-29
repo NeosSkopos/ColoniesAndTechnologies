@@ -1,3 +1,6 @@
+WARNING:
+If you upgraded to this version and it crashed for you and your resource packs and keybinds were reset, you can download a new instance and copy its options.txt.
+
 Config:
 + Removed another invalid item from loot bundle options
 + Spaced out buildings a bit more in world gen
@@ -36,3 +39,6 @@ Mods:
 
 Datapacks:
 + Added Idle Pause (by Plaonder) (will be auto added to worlds via Paxi)
+
+Quests:
++ Added more Create quests
