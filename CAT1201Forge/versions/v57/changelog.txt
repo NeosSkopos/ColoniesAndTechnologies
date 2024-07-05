@@ -1,0 +1,35 @@
+Config:
++ Changed from 50% to only needing a single player to sleep to skip the night.
++ Moved Stylish effects to the right side of the inventory. (No longer overlapping with Curios items.)
++ Updated modpack description under main menu
+
+Mods:
+- Removed Server Sleep (now catered for by Comforts)
+- Removed EMI
+- Removed EMI Trades
+- Removed Luki's Grand Capitals (replaced)
++ Added Pro Placer (by Fuzs)
++ Added Default Options (by BlayTheNinth)
++ Added Armor of the Ages (by dawn-of-time)
++ Added Dawn of Time - Builder Edition (by dawn-of-time)
++ Added Noisium (by Steveplays)
++ Added Integrated Villages (by craisinlord)
+- Downgraded ImmediatelyFast to 1.2.17 (reduced crashes)
+- Updated all mods to their latest versions, except Effortless Building (crashes dedicated server), Common Networking (crashes startup with Useful Slime) and ImmediateFast (caused crashes)
+
+Updated mods comments:
++ The "b" shortcut for crystal backpacks now work again.
++ The "h" shortcut now inspects the equipped gun of Just Enough Guns
+
+Resource Packs:
++ Updated 3D Item Icons
++ Updated Better Animations
++ Updated Fresh Animations
++ Added Better Cats! (by CanineGray)
+
+Comments/Thoughts:
+- EMI was starting to cause VERY slow opening times on the first time someone opens their inventory - even crashing the game sometimes. Since JEI is already installed as well, it was time for me to let go of EMI, even though I prefer it more than JEI.
+- Also kept getting crashes that reset all keybinds. I think this was related to ImmediatelyFast's latest update, not actually being intended for 1.20.1, but for 1.21. After reverting that. Things were better.
+- The above also made me re-add Default Options, because with that you can "Reset All" your keybinds to the modpack defaults. (Not reliable on 1.20.1 for preserving your own options though, so only added for the Reset All usefulness.)
+- Block placements/removals are now way faster with Pro Placer added, but I still kept the bridging mod for wrap-around block placements, because Pro Placer doesn't support placing things below blocks.
+- I thought the villages from Luki's Grand Capitals were epic… yet the Integrated Villages mod topped even that!
