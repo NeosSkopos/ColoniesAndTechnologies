@@ -1,0 +1,24 @@
+Config:
++ In Shader settings, disabled Bloom and set block reflection to sun and moon only.
+
+Resource Packs:
++ Re-added 3D Default (by GeForceLegend)
++ Added Gray's 3D items (by CanineGray)
++ Added Canoe Boats (by CanineGray)
+- Removed Minecanoes (replaced)
+- Removed Simply 3D & Simply 3D Extras (replaced)
+- Removed Remodeled Doors 3D (replaced)
+- Removed Ray's 3D Ladders (replaced)
+- Removed Better Cats! (some models glitched)
++ Updated Farmer's 3D
+
+Shaders:
++ Updated Complimentary Unbound + Euphoria Patches
+
+Mods:
++ Added ATi Structures Mod (by Ati)
+- Removed [ESF] Entity Sound Features (redundant)
++ Updated all mods to their latest versions, except Effortless Building (crashes dedicated server), Common Networking (crashes startup with Useful Slime) and ImmediateFast
+
+Quests:
++ Updated quests
