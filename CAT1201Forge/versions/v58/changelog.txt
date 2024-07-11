@@ -10,6 +10,7 @@ Resource Packs:
 - Removed Remodeled Doors 3D (replaced)
 - Removed Ray's 3D Ladders (replaced)
 - Removed Better Cats! (some models glitched)
+- Removed Alternate 3D packs (replaced)
 + Updated Farmer's 3D
 
 Shaders:
