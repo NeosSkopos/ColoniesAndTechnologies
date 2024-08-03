@@ -1,0 +1,31 @@
+Config:
++ Changed default keybind for Tom's Storage Terminal to Keypad 8
++ In Shader settings, changed block reflection to off (only having it on sun and moon made water change color weirdly sometimes.)
+Mods:
++ Added Air hop (by Fuzs)
++ Added Think before Drop (by IAFEnvoy)
++ Added Vic's Point Blank (by vic4games)
++ Added Farsighted Mobs (Forge) (by sindarin27)
++ Added LUMINOUS: Monsters (by RipleysMods)
++ Added Hook (by KL_jiana)
+- Removed Just Enough Guns (Replaced)
+- Removed Yungs Better Desert Temples (IDAS now does desert pyramids)
+- Removed Entity Culling (Not recommended with Embeddium)
+- Removed Sound Physics Remastered (Not recommended with Embeddium)
+- Removed Advanced Hook Launchers (Replaced)
+- Removed ForgeEndertech
++ Updated all mods to their latest versions, except Effortless Building (crashes dedicated server) and Common Networking (crashes startup with Useful Slime)
+Resource Packs:
++ Updated Freshly Modded (F.M.R.P)
++ Updated More Mob Variants x Fresh Animations
++ Updated Better Animations
++ Updated Drodi's Slimes
+Quests:
++ Added Vic's Point Blank quests
++ Updated/Added Mekanism quests up until Tier 2
++ Minor other changes
+Comments/Thoughts:
++ The replacement of Just Enough Guns for Vic's Point Blank was due to multiple reasons. Vic's just feels more simple and straight forward with its crafting ingredients and more customisations with the attachments. But primarily, it has impact grenades and even a rocket launcher (which I missed, since removal of Missile Mahem). Though it had a lot of cool stuff, I just found myself using bows more than the JEG guns, because bows were just stronger and easier to get to.
++ Since removing the Rotted mod, the game hasn't felt that challenging anymore. I hope the adding of Farsighted Mobs can help to slightly make the difficulty more enjoyable (more action) now, without making mobs themselves much harder.
++ The Hook mod, as a grappling hook, is far simpler in its usage and slot requirements, hence replacing Advanced Hook Launchers with it.
++ Also, my friend lost (dropped) his special axe in the Nether by accidentally pressing "q", so I think it's about time I added some protection against that.
