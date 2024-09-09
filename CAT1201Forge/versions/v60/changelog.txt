@@ -1,0 +1,23 @@
+Config:
++ Disabled Wall Jump by default. (Too many of us were randomly jumping off cliffsides. Press Alt+P to turn it back on, if desired.)
++ Reduced Lifetime Variance and Physics Objects Scale for Physics mod blocks.
+  
+Mods:
++ Added Yet another config lib (by isxander)
++ Updated all mods to their latest versions, except Dawn of Time Builder Edition (crashes dedicated server), Distant Horizons (crashes with Oculus), Effortless Building (crashes dedicated server) and Common Networking (crashes startup with Useful Slime)
++ Added Improvable Skills (by Zeitheron)
++ Added HammerLib (by Zeitheron)
+- Removed Jobs+ Remastered(Replaced)
+- Removed Arc Lib
+- Removed UI Lib
+- Removed Item Restrictions
+
+Resource Packs:
++ Updated packs to their latest versions
+
+Quests:
++ Updated & Added Quests
+
+Comments/Thoughts:
++ The Jobs+ Remastered mod kept crashing clients when changing abilities on dedicated servers. Although I liked the mod, I don't enjoy having a frequent crashing experience and the Improvable Skills mod seems to fill the space better by also having a link to the abilities in the inventory.
++ Starting to add a Beastiary quests section, which tries to teach which creatures can be tamed, how to tame them and what can be done with them.
